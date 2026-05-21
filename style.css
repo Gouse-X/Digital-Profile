@@ -15,9 +15,9 @@ nav{
     width: 98%;
     left: 1%;
     right: 1%;
-    background-color: rgb(255, 255, 255); 
+    background-color: rgb(255, 255, 255,0.486); 
     box-shadow: 3px 3px 6px rgba(152, 205, 255, 0.925);
-    backdrop-filter: blur(1px);
+    backdrop-filter: blur(2px);
     border: 2px solid rgb(28, 172, 255);
     padding: 0.5%;
     border-radius: 50px;
